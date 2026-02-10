@@ -26,6 +26,9 @@
           "minecraft:sand",
           "minecraft:gravel"
         ]
+      },
+      "minecraft:tags": {
+        "tags": ["addons:full_chest", "addons:chest_special"]
       }
     }
   }
