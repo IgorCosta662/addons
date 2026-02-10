@@ -1,0 +1,117 @@
+## Behavior Pack Translations (English)
+
+item.addons:chest_iron_full.name=§7Full Iron Chest
+item.addons:chest_gold_full.name=§6Full Gold Chest
+item.addons:chest_diamond_full.name=§bFull Diamond Chest
+item.addons:chest_coal_full.name=§8Full Coal Chest
+item.addons:chest_netherite_full.name=§5Full Netherite Chest
+item.addons:chest_emerald_full.name=§aFull Emerald Chest
+item.addons:chest_copper_full.name=§cFull Copper Chest
+
+## Tooltips
+item.addons:chest_iron_full.tooltip=§7Contains 27 stacks of iron
+item.addons:chest_gold_full.tooltip=§6Contains 27 stacks of gold
+item.addons:chest_diamond_full.tooltip=§bContains 27 stacks of diamonds
+item.addons:chest_coal_full.tooltip=§8Contains 27 stacks of coal
+item.addons:chest_netherite_full.tooltip=§5Contains 27 stacks of netherite
+item.addons:chest_emerald_full.tooltip=§aContains 27 stacks of emeralds
+item.addons:chest_copper_full.tooltip=§cContains 27 stacks of copper
+
+## Ore Blocks
+item.addons:chest_iron_block_full.name=§7Iron Block Chest
+item.addons:chest_gold_block_full.name=§6Gold Block Chest
+item.addons:chest_diamond_block_full.name=§bDiamond Block Chest
+item.addons:chest_emerald_block_full.name=§aEmerald Block Chest
+item.addons:chest_netherite_block_full.name=§5Netherite Block Chest
+
+## Wood Logs
+item.addons:chest_oak_log_full.name=§eOak Log Chest
+item.addons:chest_birch_log_full.name=§fBirch Log Chest
+item.addons:chest_spruce_log_full.name=§8Spruce Log Chest
+item.addons:chest_jungle_log_full.name=§2Jungle Log Chest
+item.addons:chest_acacia_log_full.name=§6Acacia Log Chest
+item.addons:chest_dark_oak_log_full.name=§8Dark Oak Log Chest
+
+## Flowers
+item.addons:chest_poppy_full.name=§cPoppy Chest
+item.addons:chest_dandelion_full.name=§eDandelion Chest
+item.addons:chest_blue_orchid_full.name=§9Blue Orchid Chest
+item.addons:chest_allium_full.name=§dAllium Chest
+item.addons:chest_tulip_full.name=§cTulip Chest
+item.addons:chest_oxeye_daisy_full.name=§fOxeye Daisy Chest
+item.addons:chest_cornflower_full.name=§9Cornflower Chest
+item.addons:chest_lily_valley_full.name=§fLily of the Valley Chest
+item.addons:chest_sunflower_full.name=§eSunflower Chest
+item.addons:chest_rose_bush_full.name=§cRose Bush Chest
+
+## Stones
+item.addons:chest_cobblestone_full.name=§7Cobblestone Chest
+item.addons:chest_stone_full.name=§7Stone Chest
+item.addons:chest_granite_full.name=§cGranite Chest
+item.addons:chest_diorite_full.name=§fDiorite Chest
+item.addons:chest_andesite_full.name=§8Andesite Chest
+item.addons:chest_calcite_full.name=§fCalcite Chest
+item.addons:chest_tuff_full.name=§7Tuff Chest
+item.addons:chest_deepslate_full.name=§8Deepslate Chest
+item.addons:chest_basalt_full.name=§8Basalt Chest
+item.addons:chest_blackstone_full.name=§0Blackstone Chest
+
+## Nether
+item.addons:chest_netherrack_full.name=§cNetherrack Chest
+item.addons:chest_soul_sand_full.name=§5Soul Sand Chest
+item.addons:chest_soul_soil_full.name=§5Soul Soil Chest
+item.addons:chest_glowstone_full.name=§eGlowstone Chest
+item.addons:chest_nether_brick_full.name=§4Nether Brick Chest
+item.addons:chest_quartz_full.name=§fQuartz Chest
+item.addons:chest_crimson_planks_full.name=§4Crimson Planks Chest
+item.addons:chest_warped_planks_full.name=§3Warped Planks Chest
+
+## End
+item.addons:chest_end_stone_full.name=§eEnd Stone Chest
+item.addons:chest_purpur_block_full.name=§dPurpur Block Chest
+item.addons:chest_chorus_fruit_full.name=§dChorus Fruit Chest
+item.addons:chest_ender_pearl_full.name=§3Ender Pearl Chest
+
+## Minerals
+item.addons:chest_redstone_full.name=§cRedstone Chest
+item.addons:chest_lapis_lazuli_full.name=§1Lapis Lazuli Chest
+item.addons:chest_amethyst_shard_full.name=§dAmethyst Shard Chest
+
+## Building
+item.addons:chest_obsidian_full.name=§5Obsidian Chest
+item.addons:chest_glass_full.name=§fGlass Chest
+item.addons:chest_brick_full.name=§cBrick Chest
+item.addons:chest_terracotta_full.name=§6Terracotta Chest
+item.addons:chest_wool_full.name=§fWool Chest
+
+## Food
+item.addons:chest_apple_full.name=§cApple Chest
+item.addons:chest_carrot_full.name=§6Carrot Chest
+item.addons:chest_potato_full.name=§ePotato Chest
+item.addons:chest_wheat_full.name=§eWheat Chest
+
+## Mob Drops
+item.addons:chest_gunpowder_full.name=§8Gunpowder Chest
+item.addons:chest_bone_full.name=§fBone Chest
+item.addons:chest_string_full.name=§fString Chest
+item.addons:chest_slime_ball_full.name=§aSlime Ball Chest
+item.addons:chest_spider_eye_full.name=§4Spider Eye Chest
+item.addons:chest_rotten_flesh_full.name=§2Rotten Flesh Chest
+item.addons:chest_phantom_membrane_full.name=§bPhantom Membrane Chest
+item.addons:chest_blaze_rod_full.name=§6Blaze Rod Chest
+item.addons:chest_ghast_tear_full.name=§fGhast Tear Chest
+item.addons:chest_prismarine_shard_full.name=§3Prismarine Shard Chest
+
+## Aquatic
+item.addons:chest_prismarine_full.name=§3Prismarine Chest
+item.addons:chest_sea_lantern_full.name=§bSea Lantern Chest
+item.addons:chest_sponge_full.name=§eSponge Chest
+item.addons:chest_ice_full.name=§bIce Chest
+item.addons:chest_packed_ice_full.name=§9Packed Ice Chest
+
+## Terrain
+item.addons:chest_sandstone_full.name=§eSandstone Chest
+item.addons:chest_sand_full.name=§eSand Chest
+item.addons:chest_clay_full.name=§7Clay Chest
+item.addons:chest_mud_full.name=§8Mud Chest
+item.addons:chest_gravel_full.name=§7Gravel Chest

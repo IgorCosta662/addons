@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "addons:chest_lily_valley_full"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "minecraft:chest"
+      },
+      {
+        "item": "minecraft:lily_of_the_valley"
+      }
+    ],
+    "result": {
+      "item": "addons:chest_lily_valley_full",
+      "count": 1
+    }
+  }
+}

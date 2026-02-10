@@ -1,0 +1,18 @@
+# Pack Icon Placeholder - Behavior Pack
+# This is a minimal 256x256 PNG file (placeholder)
+# For best results, replace this with a custom 256x256 icon
+
+# Instruções:
+# 1. Crie uma imagem 256x256 pixels
+# 2. Design: Baú com ferramentas/engrenagens
+# 3. Salve como pack_icon.png nesta pasta
+# 4. Exclua este arquivo README
+
+Este é um placeholder. 
+O addon funciona sem este arquivo, mas ter um ícone melhora a apresentação.
+
+Para criar rapidamente:
+- Use qualquer editor de imagens
+- Tamanho: 256x256 pixels
+- Formato: PNG
+- Nome: pack_icon.png

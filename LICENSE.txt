@@ -1,0 +1,47 @@
+MIT License
+
+Copyright (c) 2026 [Your Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+MINECRAFT ADDON SPECIFIC TERMS:
+
+This addon is designed for Minecraft Bedrock Edition and requires the game to function.
+Minecraft is a trademark of Mojang Studios and Microsoft Corporation.
+This addon is not affiliated with or endorsed by Mojang Studios or Microsoft Corporation.
+
+You are free to:
+- Use this addon in your personal worlds
+- Use this addon on multiplayer servers (with credit)
+- Modify the addon for personal use
+- Create derivative works (with credit to original author)
+
+You must:
+- Provide attribution to the original author when sharing
+- Include this license file when redistributing
+- Clearly indicate any modifications made
+
+You may not:
+- Claim this work as entirely your own
+- Sell this addon or charge for access to it
+- Remove or modify existing credits
+
+For questions about licensing or usage, please contact the author.

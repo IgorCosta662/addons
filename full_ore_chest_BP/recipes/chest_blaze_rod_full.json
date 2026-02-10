@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "addons:chest_blaze_rod_full"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "minecraft:chest"
+      },
+      {
+        "item": "minecraft:blaze_rod"
+      }
+    ],
+    "result": {
+      "item": "addons:chest_blaze_rod_full",
+      "count": 1
+    }
+  }
+}

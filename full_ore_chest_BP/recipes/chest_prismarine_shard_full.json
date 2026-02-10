@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "addons:chest_prismarine_shard_full"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "minecraft:chest"
+      },
+      {
+        "item": "minecraft:prismarine_shard"
+      }
+    ],
+    "result": {
+      "item": "addons:chest_prismarine_shard_full",
+      "count": 1
+    }
+  }
+}

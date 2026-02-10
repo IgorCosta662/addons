@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "addons:chest_ghast_tear_full"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "minecraft:chest"
+      },
+      {
+        "item": "minecraft:ghast_tear"
+      }
+    ],
+    "result": {
+      "item": "addons:chest_ghast_tear_full",
+      "count": 1
+    }
+  }
+}

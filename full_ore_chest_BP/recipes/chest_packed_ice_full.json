@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "addons:chest_packed_ice_full"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "minecraft:chest"
+      },
+      {
+        "item": "minecraft:packed_ice"
+      }
+    ],
+    "result": {
+      "item": "addons:chest_packed_ice_full",
+      "count": 1
+    }
+  }
+}

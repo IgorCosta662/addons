@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "addons:chest_ender_pearl_full"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "minecraft:chest"
+      },
+      {
+        "item": "minecraft:ender_pearl"
+      }
+    ],
+    "result": {
+      "item": "addons:chest_ender_pearl_full",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "addons:chest_blackstone_full"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "minecraft:chest"
+      },
+      {
+        "item": "minecraft:blackstone"
+      }
+    ],
+    "result": {
+      "item": "addons:chest_blackstone_full",
+      "count": 1
+    }
+  }
+}

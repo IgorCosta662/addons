@@ -1,0 +1,117 @@
+## Behavior Pack Translations
+
+item.addons:chest_iron_full.name=§7Baú de Ferro Cheio
+item.addons:chest_gold_full.name=§6Baú de Ouro Cheio
+item.addons:chest_diamond_full.name=§bBaú de Diamante Cheio
+item.addons:chest_coal_full.name=§8Baú de Carvão Cheio
+item.addons:chest_netherite_full.name=§5Baú de Netherite Cheio
+item.addons:chest_emerald_full.name=§aBaú de Esmeralda Cheio
+item.addons:chest_copper_full.name=§cBaú de Cobre Cheio
+
+## Tooltips
+item.addons:chest_iron_full.tooltip=§7Contém 27 stacks de ferro
+item.addons:chest_gold_full.tooltip=§6Contém 27 stacks de ouro
+item.addons:chest_diamond_full.tooltip=§bContém 27 stacks de diamante
+item.addons:chest_coal_full.tooltip=§8Contém 27 stacks de carvão
+item.addons:chest_netherite_full.tooltip=§5Contém 27 stacks de netherite
+item.addons:chest_emerald_full.tooltip=§aContém 27 stacks de esmeralda
+item.addons:chest_copper_full.tooltip=§cContém 27 stacks de cobre
+
+## Blocos de Minérios
+item.addons:chest_iron_block_full.name=§7Baú de Bloco de Ferro
+item.addons:chest_gold_block_full.name=§6Baú de Bloco de Ouro
+item.addons:chest_diamond_block_full.name=§bBaú de Bloco de Diamante
+item.addons:chest_emerald_block_full.name=§aBaú de Bloco de Esmeralda
+item.addons:chest_netherite_block_full.name=§5Baú de Bloco de Netherite
+
+## Madeiras
+item.addons:chest_oak_log_full.name=§eBaú de Tronco de Carvalho
+item.addons:chest_birch_log_full.name=§fBaú de Tronco de Bétula
+item.addons:chest_spruce_log_full.name=§8Baú de Tronco de Pinheiro
+item.addons:chest_jungle_log_full.name=§2Baú de Tronco da Selva
+item.addons:chest_acacia_log_full.name=§6Baú de Tronco de Acácia
+item.addons:chest_dark_oak_log_full.name=§8Baú de Tronco de Carvalho Escuro
+
+## Flores
+item.addons:chest_poppy_full.name=§cBaú de Papoulas
+item.addons:chest_dandelion_full.name=§eBaú de Dentes-de-leão
+item.addons:chest_blue_orchid_full.name=§9Baú de Orquídeas Azuis
+item.addons:chest_allium_full.name=§dBaú de Allium
+item.addons:chest_tulip_full.name=§cBaú de Tulipas
+item.addons:chest_oxeye_daisy_full.name=§fBaú de Margaridas
+item.addons:chest_cornflower_full.name=§9Baú de Centáureas
+item.addons:chest_lily_valley_full.name=§fBaú de Lírios do Vale
+item.addons:chest_sunflower_full.name=§eBaú de Girassóis
+item.addons:chest_rose_bush_full.name=§cBaú de Roseiras
+
+## Pedras
+item.addons:chest_cobblestone_full.name=§7Baú de Pedregulho
+item.addons:chest_stone_full.name=§7Baú de Pedra
+item.addons:chest_granite_full.name=§cBaú de Granito
+item.addons:chest_diorite_full.name=§fBaú de Diorito
+item.addons:chest_andesite_full.name=§8Baú de Andesito
+item.addons:chest_calcite_full.name=§fBaú de Calcita
+item.addons:chest_tuff_full.name=§7Baú de Tufo
+item.addons:chest_deepslate_full.name=§8Baú de Ardósia
+item.addons:chest_basalt_full.name=§8Baú de Basalto
+item.addons:chest_blackstone_full.name=§0Baú de Pedra Negra
+
+## Nether
+item.addons:chest_netherrack_full.name=§cBaú de Netherrack
+item.addons:chest_soul_sand_full.name=§5Baú de Areia das Almas
+item.addons:chest_soul_soil_full.name=§5Baú de Solo das Almas
+item.addons:chest_glowstone_full.name=§eBaú de Pedra Luminosa
+item.addons:chest_nether_brick_full.name=§4Baú de Tijolo do Nether
+item.addons:chest_quartz_full.name=§fBaú de Quartzo
+item.addons:chest_crimson_planks_full.name=§4Baú de Tábuas Carmesim
+item.addons:chest_warped_planks_full.name=§3Baú de Tábuas Distorcidas
+
+## End
+item.addons:chest_end_stone_full.name=§eBaú de Pedra do End
+item.addons:chest_purpur_block_full.name=§dBaú de Bloco de Purpur
+item.addons:chest_chorus_fruit_full.name=§dBaú de Fruta Chorus
+item.addons:chest_ender_pearl_full.name=§3Baú de Pérola do End
+
+## Minerais
+item.addons:chest_redstone_full.name=§cBaú de Redstone
+item.addons:chest_lapis_lazuli_full.name=§1Baú de Lápis-Lazúli
+item.addons:chest_amethyst_shard_full.name=§dBaú de Fragmento de Ametista
+
+## Construção
+item.addons:chest_obsidian_full.name=§5Baú de Obsidiana
+item.addons:chest_glass_full.name=§fBaú de Vidro
+item.addons:chest_brick_full.name=§cBaú de Tijolos
+item.addons:chest_terracotta_full.name=§6Baú de Terracota
+item.addons:chest_wool_full.name=§fBaú de Lã
+
+## Alimentos
+item.addons:chest_apple_full.name=§cBaú de Maçãs
+item.addons:chest_carrot_full.name=§6Baú de Cenouras
+item.addons:chest_potato_full.name=§eBaú de Batatas
+item.addons:chest_wheat_full.name=§eBaú de Trigo
+
+## Drops de Mobs
+item.addons:chest_gunpowder_full.name=§8Baú de Pólvora
+item.addons:chest_bone_full.name=§fBaú de Ossos
+item.addons:chest_string_full.name=§fBaú de Linhas
+item.addons:chest_slime_ball_full.name=§aBaú de Bolas de Slime
+item.addons:chest_spider_eye_full.name=§4Baú de Olhos de Aranha
+item.addons:chest_rotten_flesh_full.name=§2Baú de Carne Podre
+item.addons:chest_phantom_membrane_full.name=§bBaú de Membranas de Phantom
+item.addons:chest_blaze_rod_full.name=§6Baú de Varas de Blaze
+item.addons:chest_ghast_tear_full.name=§fBaú de Lágrimas de Ghast
+item.addons:chest_prismarine_shard_full.name=§3Baú de Fragmentos de Prismarinho
+
+## Aquáticos
+item.addons:chest_prismarine_full.name=§3Baú de Prismarinho
+item.addons:chest_sea_lantern_full.name=§bBaú de Lanterna do Mar
+item.addons:chest_sponge_full.name=§eBaú de Esponjas
+item.addons:chest_ice_full.name=§bBaú de Gelo
+item.addons:chest_packed_ice_full.name=§9Baú de Gelo Compactado
+
+## Terreno
+item.addons:chest_sandstone_full.name=§eBaú de Arenito
+item.addons:chest_sand_full.name=§eBaú de Areia
+item.addons:chest_clay_full.name=§7Baú de Argila
+item.addons:chest_mud_full.name=§8Baú de Lama
+item.addons:chest_gravel_full.name=§7Baú de Cascalho

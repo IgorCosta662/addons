@@ -1,0 +1,21 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "addons:chest_end_stone_full"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "minecraft:chest"
+      },
+      {
+        "item": "minecraft:end_stone"
+      }
+    ],
+    "result": {
+      "item": "addons:chest_end_stone_full",
+      "count": 1
+    }
+  }
+}

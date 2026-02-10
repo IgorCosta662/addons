@@ -1,0 +1,252 @@
+{
+  "resource_pack_name": "full_ore_chest_rp",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "chest_iron_full": {
+      "textures": "textures/items/chest_iron_full"
+    },
+    "chest_gold_full": {
+      "textures": "textures/items/chest_gold_full"
+    },
+    "chest_diamond_full": {
+      "textures": "textures/items/chest_diamond_full"
+    },
+    "chest_coal_full": {
+      "textures": "textures/items/chest_coal_full"
+    },
+    "chest_netherite_full": {
+      "textures": "textures/items/chest_netherite_full"
+    },
+    "chest_emerald_full": {
+      "textures": "textures/items/chest_emerald_full"
+    },
+    "chest_copper_full": {
+      "textures": "textures/items/chest_copper_full"
+    },
+    "chest_iron_block_full": {
+      "textures": "textures/items/chest_iron_block_full"
+    },
+    "chest_gold_block_full": {
+      "textures": "textures/items/chest_gold_block_full"
+    },
+    "chest_diamond_block_full": {
+      "textures": "textures/items/chest_diamond_block_full"
+    },
+    "chest_emerald_block_full": {
+      "textures": "textures/items/chest_emerald_block_full"
+    },
+    "chest_netherite_block_full": {
+      "textures": "textures/items/chest_netherite_block_full"
+    },
+    "chest_oak_log_full": {
+      "textures": "textures/items/chest_oak_log_full"
+    },
+    "chest_birch_log_full": {
+      "textures": "textures/items/chest_birch_log_full"
+    },
+    "chest_spruce_log_full": {
+      "textures": "textures/items/chest_spruce_log_full"
+    },
+    "chest_jungle_log_full": {
+      "textures": "textures/items/chest_jungle_log_full"
+    },
+    "chest_acacia_log_full": {
+      "textures": "textures/items/chest_acacia_log_full"
+    },
+    "chest_dark_oak_log_full": {
+      "textures": "textures/items/chest_dark_oak_log_full"
+    },
+    "chest_poppy_full": {
+      "textures": "textures/items/chest_poppy_full"
+    },
+    "chest_dandelion_full": {
+      "textures": "textures/items/chest_dandelion_full"
+    },
+    "chest_blue_orchid_full": {
+      "textures": "textures/items/chest_blue_orchid_full"
+    },
+    "chest_allium_full": {
+      "textures": "textures/items/chest_allium_full"
+    },
+    "chest_tulip_full": {
+      "textures": "textures/items/chest_tulip_full"
+    },
+    "chest_oxeye_daisy_full": {
+      "textures": "textures/items/chest_oxeye_daisy_full"
+    },
+    "chest_cornflower_full": {
+      "textures": "textures/items/chest_cornflower_full"
+    },
+    "chest_lily_valley_full": {
+      "textures": "textures/items/chest_lily_valley_full"
+    },
+    "chest_sunflower_full": {
+      "textures": "textures/items/chest_sunflower_full"
+    },
+    "chest_rose_bush_full": {
+      "textures": "textures/items/chest_rose_bush_full"
+    },
+    "chest_cobblestone_full": {
+      "textures": "textures/items/chest_cobblestone_full"
+    },
+    "chest_stone_full": {
+      "textures": "textures/items/chest_stone_full"
+    },
+    "chest_granite_full": {
+      "textures": "textures/items/chest_granite_full"
+    },
+    "chest_diorite_full": {
+      "textures": "textures/items/chest_diorite_full"
+    },
+    "chest_andesite_full": {
+      "textures": "textures/items/chest_andesite_full"
+    },
+    "chest_calcite_full": {
+      "textures": "textures/items/chest_calcite_full"
+    },
+    "chest_tuff_full": {
+      "textures": "textures/items/chest_tuff_full"
+    },
+    "chest_deepslate_full": {
+      "textures": "textures/items/chest_deepslate_full"
+    },
+    "chest_basalt_full": {
+      "textures": "textures/items/chest_basalt_full"
+    },
+    "chest_blackstone_full": {
+      "textures": "textures/items/chest_blackstone_full"
+    },
+    "chest_netherrack_full": {
+      "textures": "textures/items/chest_netherrack_full"
+    },
+    "chest_soul_sand_full": {
+      "textures": "textures/items/chest_soul_sand_full"
+    },
+    "chest_soul_soil_full": {
+      "textures": "textures/items/chest_soul_soil_full"
+    },
+    "chest_glowstone_full": {
+      "textures": "textures/items/chest_glowstone_full"
+    },
+    "chest_nether_brick_full": {
+      "textures": "textures/items/chest_nether_brick_full"
+    },
+    "chest_quartz_full": {
+      "textures": "textures/items/chest_quartz_full"
+    },
+    "chest_crimson_planks_full": {
+      "textures": "textures/items/chest_crimson_planks_full"
+    },
+    "chest_warped_planks_full": {
+      "textures": "textures/items/chest_warped_planks_full"
+    },
+    "chest_end_stone_full": {
+      "textures": "textures/items/chest_end_stone_full"
+    },
+    "chest_purpur_block_full": {
+      "textures": "textures/items/chest_purpur_block_full"
+    },
+    "chest_chorus_fruit_full": {
+      "textures": "textures/items/chest_chorus_fruit_full"
+    },
+    "chest_ender_pearl_full": {
+      "textures": "textures/items/chest_ender_pearl_full"
+    },
+    "chest_redstone_full": {
+      "textures": "textures/items/chest_redstone_full"
+    },
+    "chest_lapis_lazuli_full": {
+      "textures": "textures/items/chest_lapis_lazuli_full"
+    },
+    "chest_amethyst_shard_full": {
+      "textures": "textures/items/chest_amethyst_shard_full"
+    },
+    "chest_obsidian_full": {
+      "textures": "textures/items/chest_obsidian_full"
+    },
+    "chest_glass_full": {
+      "textures": "textures/items/chest_glass_full"
+    },
+    "chest_brick_full": {
+      "textures": "textures/items/chest_brick_full"
+    },
+    "chest_terracotta_full": {
+      "textures": "textures/items/chest_terracotta_full"
+    },
+    "chest_wool_full": {
+      "textures": "textures/items/chest_wool_full"
+    },
+    "chest_apple_full": {
+      "textures": "textures/items/chest_apple_full"
+    },
+    "chest_carrot_full": {
+      "textures": "textures/items/chest_carrot_full"
+    },
+    "chest_potato_full": {
+      "textures": "textures/items/chest_potato_full"
+    },
+    "chest_wheat_full": {
+      "textures": "textures/items/chest_wheat_full"
+    },
+    "chest_gunpowder_full": {
+      "textures": "textures/items/chest_gunpowder_full"
+    },
+    "chest_bone_full": {
+      "textures": "textures/items/chest_bone_full"
+    },
+    "chest_string_full": {
+      "textures": "textures/items/chest_string_full"
+    },
+    "chest_slime_ball_full": {
+      "textures": "textures/items/chest_slime_ball_full"
+    },
+    "chest_spider_eye_full": {
+      "textures": "textures/items/chest_spider_eye_full"
+    },
+    "chest_rotten_flesh_full": {
+      "textures": "textures/items/chest_rotten_flesh_full"
+    },
+    "chest_phantom_membrane_full": {
+      "textures": "textures/items/chest_phantom_membrane_full"
+    },
+    "chest_blaze_rod_full": {
+      "textures": "textures/items/chest_blaze_rod_full"
+    },
+    "chest_ghast_tear_full": {
+      "textures": "textures/items/chest_ghast_tear_full"
+    },
+    "chest_prismarine_shard_full": {
+      "textures": "textures/items/chest_prismarine_shard_full"
+    },
+    "chest_prismarine_full": {
+      "textures": "textures/items/chest_prismarine_full"
+    },
+    "chest_sea_lantern_full": {
+      "textures": "textures/items/chest_sea_lantern_full"
+    },
+    "chest_sponge_full": {
+      "textures": "textures/items/chest_sponge_full"
+    },
+    "chest_ice_full": {
+      "textures": "textures/items/chest_ice_full"
+    },
+    "chest_packed_ice_full": {
+      "textures": "textures/items/chest_packed_ice_full"
+    },
+    "chest_sandstone_full": {
+      "textures": "textures/items/chest_sandstone_full"
+    },
+    "chest_sand_full": {
+      "textures": "textures/items/chest_sand_full"
+    },
+    "chest_clay_full": {
+      "textures": "textures/items/chest_clay_full"
+    },
+    "chest_mud_full": {
+      "textures": "textures/items/chest_mud_full"
+    },
+    "chest_gravel_full": {
+      "textures": "textures/items/chest_gravel_full"
+    }
+  }
+}
