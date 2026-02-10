@@ -106,3 +106,17 @@ item.addons:chest_sand_full.name=§eBaú de Areia
 item.addons:chest_clay_full.name=§7Baú de Argila
 item.addons:chest_mud_full.name=§8Baú de Lama
 item.addons:chest_gravel_full.name=§7Baú de Cascalho
+
+## Tijolos
+item.addons:chest_stone_bricks_full.name=§7Baú de Tijolos de Pedra
+item.addons:chest_mossy_stone_bricks_full.name=§2Baú de Tijolos de Pedra Musgosos
+item.addons:chest_cracked_stone_bricks_full.name=§8Baú de Tijolos de Pedra Rachados
+item.addons:chest_prismarine_bricks_full.name=§3Baú de Tijolos de Prismarinho
+item.addons:chest_end_bricks_full.name=§eBaú de Tijolos do End
+item.addons:chest_nether_bricks_full.name=§4Baú de Tijolos do Nether
+item.addons:chest_red_nether_bricks_full.name=§cBaú de Tijolos do Nether Vermelhos
+
+## Blocos Especiais
+item.addons:chest_magma_full.name=§6Baú de Magma
+item.addons:chest_hay_full.name=§eBaú de Feno
+item.addons:chest_bone_block_full.name=§fBaú de Blocos de Osso

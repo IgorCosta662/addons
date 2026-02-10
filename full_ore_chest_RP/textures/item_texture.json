@@ -247,6 +247,36 @@
     },
     "chest_gravel_full": {
       "textures": "textures/items/chest_gravel_full"
+    },
+    "chest_stone_bricks_full": {
+      "textures": "textures/items/chest_stone_bricks_full"
+    },
+    "chest_mossy_stone_bricks_full": {
+      "textures": "textures/items/chest_mossy_stone_bricks_full"
+    },
+    "chest_cracked_stone_bricks_full": {
+      "textures": "textures/items/chest_cracked_stone_bricks_full"
+    },
+    "chest_prismarine_bricks_full": {
+      "textures": "textures/items/chest_prismarine_bricks_full"
+    },
+    "chest_end_bricks_full": {
+      "textures": "textures/items/chest_end_bricks_full"
+    },
+    "chest_nether_bricks_full": {
+      "textures": "textures/items/chest_nether_bricks_full"
+    },
+    "chest_red_nether_bricks_full": {
+      "textures": "textures/items/chest_red_nether_bricks_full"
+    },
+    "chest_magma_full": {
+      "textures": "textures/items/chest_magma_full"
+    },
+    "chest_hay_full": {
+      "textures": "textures/items/chest_hay_full"
+    },
+    "chest_bone_block_full": {
+      "textures": "textures/items/chest_bone_block_full"
     }
   }
 }

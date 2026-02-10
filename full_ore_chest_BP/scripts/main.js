@@ -710,6 +710,88 @@ const CHEST_CONFIGS = {
     particleType: 'minecraft:falling_dust_scaffolding_particle',
     slots: CONFIG.CHEST_SLOTS,
     stackSize: 64
+  },
+  // === TIJOLOS ===
+  'addons:chest_stone_bricks': {
+    itemType: 'minecraft:stonebrick',
+    displayName: '§7Baú de Tijolos de Pedra',
+    particleColor: '§7',
+    particleType: 'minecraft:falling_dust_concrete_powder_particle',
+    slots: CONFIG.CHEST_SLOTS,
+    stackSize: 64
+  },
+  'addons:chest_mossy_stone_bricks': {
+    itemType: 'minecraft:mossy_stonebrick',
+    displayName: '§2Baú de Tijolos de Pedra Musgosos',
+    particleColor: '§2',
+    particleType: 'minecraft:crop_growth_emitter',
+    slots: CONFIG.CHEST_SLOTS,
+    stackSize: 64
+  },
+  'addons:chest_cracked_stone_bricks': {
+    itemType: 'minecraft:cracked_stonebrick',
+    displayName: '§8Baú de Tijolos de Pedra Rachados',
+    particleColor: '§8',
+    particleType: 'minecraft:falling_dust_concrete_powder_particle',
+    slots: CONFIG.CHEST_SLOTS,
+    stackSize: 64
+  },
+  'addons:chest_prismarine_bricks': {
+    itemType: 'minecraft:prismarine_bricks',
+    displayName: '§3Baú de Tijolos de Prismarinho',
+    particleColor: '§3',
+    particleType: 'minecraft:water_splash_particle',
+    slots: CONFIG.CHEST_SLOTS,
+    stackSize: 64
+  },
+  'addons:chest_end_bricks': {
+    itemType: 'minecraft:end_bricks',
+    displayName: '§eBaú de Tijolos do End',
+    particleColor: '§e',
+    particleType: 'minecraft:portal_reverse_particle',
+    slots: CONFIG.CHEST_SLOTS,
+    stackSize: 64
+  },
+  'addons:chest_nether_bricks': {
+    itemType: 'minecraft:nether_brick_block',
+    displayName: '§4Baú de Tijolos do Nether',
+    particleColor: '§4',
+    particleType: 'minecraft:lava_particle',
+    slots: CONFIG.CHEST_SLOTS,
+    stackSize: 64
+  },
+  'addons:chest_red_nether_bricks': {
+    itemType: 'minecraft:red_nether_brick',
+    displayName: '§cBaú de Tijolos do Nether Vermelhos',
+    particleColor: '§c',
+    particleType: 'minecraft:lava_particle',
+    slots: CONFIG.CHEST_SLOTS,
+    stackSize: 64
+  },
+  // === BLOCOS ESPECIAIS ===
+  'addons:chest_magma': {
+    itemType: 'minecraft:magma',
+    displayName: '§6Baú de Magma',
+    particleColor: '§6',
+    particleType: 'minecraft:lava_particle',
+    slots: CONFIG.CHEST_SLOTS,
+    stackSize: 64
+  },
+  'addons:chest_hay': {
+    itemType: 'minecraft:hay_block',
+    displayName: '§eBaú de Feno',
+    particleColor: '§e',
+    particleType: 'minecraft:crop_growth_emitter',
+    slots: CONFIG.CHEST_SLOTS,
+    stackSize: 64
+  },
+  'addons:chest_bone_block': {
+    itemType: 'minecraft:bone_block',
+    displayName: '§fBaú de Blocos de Osso',
+    particleColor: '§f',
+    particleType: 'minecraft:bleach',
+    slots: CONFIG.CHEST_SLOTS,
+    stackSize: 64
   }
 };
 
@@ -1226,7 +1308,25 @@ function setupTestCommands() {
         'sand': 'addons:chest_sand_full',
         'clay': 'addons:chest_clay_full',
         'mud': 'addons:chest_mud_full',
-        'gravel': 'addons:chest_gravel_full'
+        'gravel': 'addons:chest_gravel_full',
+        // Tijolos
+        'stone_bricks': 'addons:chest_stone_bricks_full',
+        'stonebricks': 'addons:chest_stone_bricks_full',
+        'mossy_stone_bricks': 'addons:chest_mossy_stone_bricks_full',
+        'mossy_bricks': 'addons:chest_mossy_stone_bricks_full',
+        'cracked_stone_bricks': 'addons:chest_cracked_stone_bricks_full',
+        'cracked_bricks': 'addons:chest_cracked_stone_bricks_full',
+        'prismarine_bricks': 'addons:chest_prismarine_bricks_full',
+        'end_bricks': 'addons:chest_end_bricks_full',
+        'nether_bricks': 'addons:chest_nether_bricks_full',
+        'netherbricks': 'addons:chest_nether_bricks_full',
+        'red_nether_bricks': 'addons:chest_red_nether_bricks_full',
+        'red_bricks': 'addons:chest_red_nether_bricks_full',
+        // Blocos Especiais
+        'magma': 'addons:chest_magma_full',
+        'hay': 'addons:chest_hay_full',
+        'hay_block': 'addons:chest_hay_full',
+        'bone_block': 'addons:chest_bone_block_full'
       };
       
       const itemId = itemMap[chestType];
@@ -1312,19 +1412,19 @@ function setupTestCommands() {
     if (message === '!help' || message === '!ajuda') {
       event.cancel = true;
       sender.sendMessage('§e╔═══════════════════════════════╗');
-      sender.sendMessage('§e║ §6Full Ore Chest Addon v2.1.0 §e║');
+      sender.sendMessage('§e║ §6Full Ore Chest Addon v2.2.0 §e║');
       sender.sendMessage('§e╚═══════════════════════════════╝');
       sender.sendMessage('');
       sender.sendMessage('§6§lCrafting:');
       sender.sendMessage('§71 Baú + 1 Item = Baú Cheio');
-      sender.sendMessage('§7📋 11 Categorias | 82 Tipos!');
+      sender.sendMessage('§7📋 13 Categorias | 92 Tipos!');
       sender.sendMessage('');
       sender.sendMessage('§6§lComandos:');
       sender.sendMessage('§7!getchest <tipo> [qtd]');
-      sender.sendMessage('§7  82 tipos em 11 categorias!');
+      sender.sendMessage('§7  92 tipos em 13 categorias!');
       sender.sendMessage('§7  Exemplo: §f!getchest diamond 5');
       sender.sendMessage('');
-      sender.sendMessage('§7!tipos §8- Lista completa (82 tipos)');
+      sender.sendMessage('§7!tipos §8- Lista completa (92 tipos)');
       sender.sendMessage('§7!stats §8- Ver estatísticas');
       sender.sendMessage('§7!help §8- Mostrar esta ajuda');
     }
@@ -1371,11 +1471,11 @@ function initialize() {
     // Mensagem de boas-vindas
     system.runTimeout(() => {
       world.sendMessage('§6╔════════════════════════════════════╗');
-      world.sendMessage('§6║ §eФull Ore Chest §7v2.1.0 §aativo! §6║');
+      world.sendMessage('§6║ §eФull Ore Chest §7v2.2.0 §aativo! §6║');
       world.sendMessage('§6╚════════════════════════════════════╝');
       world.sendMessage('§7Use §f!ajuda §7ou §f!tipos §7para comandos');
-      world.sendMessage('§7✨ §e82 tipos§7 em §611 categorias§7!');
-      world.sendMessage('§7⛏🌸🗻🔥🌌💎🏗🍎💀🌊🏜');
+      world.sendMessage('§7✨ §e92 tipos§7 em §613 categorias§7!');
+      world.sendMessage('§7⛏🌸🗻🔥🌌💎🏗🍎💀🌊🏜🧱⭐');
     }, 100);
     
     log('INFO', 'Addon inicializado com sucesso!');

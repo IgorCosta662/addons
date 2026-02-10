@@ -106,3 +106,17 @@ item.addons:chest_sand_full.name=§eSand Chest
 item.addons:chest_clay_full.name=§7Clay Chest
 item.addons:chest_mud_full.name=§8Mud Chest
 item.addons:chest_gravel_full.name=§7Gravel Chest
+
+## Bricks
+item.addons:chest_stone_bricks_full.name=§7Stone Bricks Chest
+item.addons:chest_mossy_stone_bricks_full.name=§2Mossy Stone Bricks Chest
+item.addons:chest_cracked_stone_bricks_full.name=§8Cracked Stone Bricks Chest
+item.addons:chest_prismarine_bricks_full.name=§3Prismarine Bricks Chest
+item.addons:chest_end_bricks_full.name=§eEnd Stone Bricks Chest
+item.addons:chest_nether_bricks_full.name=§4Nether Bricks Chest
+item.addons:chest_red_nether_bricks_full.name=§cRed Nether Bricks Chest
+
+## Special Blocks
+item.addons:chest_magma_full.name=§6Magma Chest
+item.addons:chest_hay_full.name=§eHay Chest
+item.addons:chest_bone_block_full.name=§fBone Block Chest
