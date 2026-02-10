@@ -5,7 +5,7 @@
     "description": "§eAddon com 92 tipos de baús pré-preenchidos\n§713 Categorias: Minérios, Pedras, Nether, End, Minerais, Construção, Alimentos, Drops, Aquáticos, Terreno, Tijolos, Especiais\n§6v2.2.0 §7Por: YourName",
     "uuid": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
     "version": [2, 2, 0],
-    "min_engine_version": [1, 21, 0]
+    "min_engine_version": [1, 21, 50]
   },
   "modules": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "module_name": "@minecraft/server",
-      "version": "1.8.0"
+      "version": "1.15.0"
     }
   ]
 }
